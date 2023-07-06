@@ -1,4 +1,4 @@
-SciLive Frontend
+NextJS 13 + MUI + TailwindCSS starterkit
 
 ## Tech Stack
 
