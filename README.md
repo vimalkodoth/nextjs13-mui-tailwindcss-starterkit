@@ -5,6 +5,7 @@ SciLive Frontend
 NextJS, Typescript, MUI, Tailwind
 
 Configured to use Tailwind for base theme
+
 MUI extends to use tailwind's theme keeping both MUI and Tailwind in sync
 
 ## Getting Started
